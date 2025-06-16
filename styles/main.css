@@ -795,6 +795,21 @@ body {
     color: #3949ab;
 }
 
+.tag-v2x {
+    background-color: #e8f6f5;
+    color: #39aba9;
+}
+
+.tag-cpp {
+    background-color: #f6f4e8;
+    color: #ab9239;
+}
+
+.tag-python {
+    background-color: #e9f6e8;
+    color: #48ab39;
+}
+
 .tag-cloud {
     background-color: #f1f8e9;
     color: #689f38;
